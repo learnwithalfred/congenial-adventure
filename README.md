@@ -17,6 +17,7 @@
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
+    - [React Front-End code](#react-front-end-code)
     - [Run tests](#run-tests)
   - [👥 Authors ](#-authors-)
   - [🤝 Contributing ](#-contributing-)
@@ -30,10 +31,9 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
-* Ruby on Rails
-* Rubocop, Stylint
-* Rspec
-
+- Ruby on Rails
+- Rubocop, Stylint
+- Rspec
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -89,7 +89,6 @@ Install this project with:
   gem install
 ```
 
-
 ### Usage
 
 To run the project, execute the following command:
@@ -98,6 +97,10 @@ To run the project, execute the following command:
   rails server
 ```
 
+### React Front-End code
+
+`https://github.com/learnwithalfred/laughing-garbanzo/tree/dev`
+
 ### Run tests
 
 To run tests, run the following command:
@@ -105,8 +108,6 @@ To run tests, run the following command:
 ```sh
   bin/rails test test/models/article_test.rb
 ```
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,10 +120,8 @@ To run tests, run the following command:
 - GitHub: [@learnwithalfred](https://github.com/learnwithalfred)
 - Twitter: [@kb_alfred](https://twitter.com/kb_alfred)
 - LinkedIn: [@learnwithalfred](https://www.linkedin.com/in/learnwithalfred/)
-  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- CONTRIBUTING -->
 
@@ -148,7 +147,6 @@ Give a ⭐️ if you like this project!
 
 A special thanks to Microverse for inspiring this project.
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
@@ -158,4 +156,3 @@ A special thanks to Microverse for inspiring this project.
 This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
