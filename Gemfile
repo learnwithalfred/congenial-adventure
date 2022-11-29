@@ -47,3 +47,6 @@ group :development do
 end
 
 gem 'faker'
+
+
+gem 'rack-cors', :require => 'rack/cors'
