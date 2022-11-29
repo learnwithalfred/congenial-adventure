@@ -48,5 +48,4 @@ end
 
 gem 'faker'
 
-
-gem 'rack-cors', :require => 'rack/cors'
+gem 'rack-cors', require: 'rack/cors'
